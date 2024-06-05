@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="dexter_doodle1" %}
+{% include feature/jumbotron.html objectid="dog_parade" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
@@ -24,5 +24,3 @@ The template repository features four objects from the University of Idaho Libra
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
 With test aspects to test features for usability for the Chinese adoptee digital archives project. 
-
-cb/about_the_about.md
