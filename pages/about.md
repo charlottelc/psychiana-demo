@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="dog_parade" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection; About Zhao Zhao Wo" %}
 
 ## About the Collection
 
@@ -23,4 +23,8 @@ The template repository features four objects from the University of Idaho Libra
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
-With test aspects to test features for usability for the Chinese adoptee digital archives project. 
+With test aspects to test features for usability for the Chinese adoptee digital archives project (aka Zhao Zhao Wo). 
+
+## About Zhao Zhao Wo
+
+Aims to bring together Chinese adoptees' images of their SWIs in an effort to connect with others with similar backgrounds.
